@@ -88,4 +88,4 @@ python app.py
 
 ## 📄 Лицензия
 
-MIT License
+[MIT License](https://github.com/themaster1970sf/AutoBuildRepo/blob/main/LICENSE)
