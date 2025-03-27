@@ -57,7 +57,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-3. Запуск:
+4. Запуск:
 ```powershell
 python3 app.py
 ```
