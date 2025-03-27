@@ -24,7 +24,7 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/your-repo/auto-build-script.git
+git clone https://github.com/AutoBuildRepo/auto-build-script.git
 cd auto-build-script
 ```
 
@@ -33,11 +33,16 @@ cd auto-build-script
 pip install -r requirements.txt
 ```
 
+3. Запуск:
+```powershell
+python app.py
+```
+
 ### Linux
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/your-repo/auto-build-script.git
+git clone https://github.com/AutoBuildRepo/auto-build-script.git
 cd auto-build-script
 ```
 
@@ -50,6 +55,11 @@ source venv/bin/activate
 3. Установить зависимости:
 ```bash
 pip install -r requirements.txt
+```
+
+3. Запуск:
+```powershell
+python3 app.py
 ```
 
 ## 🔧 Настройка
