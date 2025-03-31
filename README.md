@@ -24,7 +24,7 @@
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/AutoBuildRepo/auto-build-script.git
+git clone https://github.com/themaster1970sf/AutoBuildRepo.git
 cd auto-build-script
 ```
 
@@ -42,7 +42,7 @@ python app.py
 
 1. Клонировать репозиторий:
 ```bash
-git clone https://github.com/AutoBuildRepo/auto-build-script.git
+git clone https://github.com/themaster1970sf/AutoBuildRepo.git
 cd auto-build-script
 ```
 
