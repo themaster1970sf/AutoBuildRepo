@@ -164,7 +164,7 @@ python app.py
 
 ## Лицензия
 
-[Лицензия MIT](https://git.plazmocraft.ru/themaster1970sf/AutoBuildRepo/src/branch/main/LICENSE)
+[Лицензия MIT](https://github.com/themaster1970sf/AutoBuildRepo/blob/main/LICENSE)
 
 ---
 
